@@ -1,0 +1,23 @@
+*{
+  padding: 0;
+  margin: 0;
+
+}
+.layout{
+  background-image: url("https://i.pinimg.com/originals/68/7b/28/687b287b0f3bf8b0ab1086dc92ffeb0e.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
